@@ -1,0 +1,3 @@
+//* given an array we have to find the element whose occurence is more than size/2 times
+//multiple ways we can choose but best time & spae complexity for this algorithm is O(n)-->time ,O(1)-->for space!!!!....
+
